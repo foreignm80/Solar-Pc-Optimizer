@@ -10,6 +10,6 @@ frogie's arcade - https://discord.gg/qmChvDTh
 frogie's arcade - https://frogiesarcade.win
 
 # This Version Is Outdated.
-Updates For V1 Will Not be Comming.
+v2 will be released soon
 
 
