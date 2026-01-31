@@ -9,7 +9,5 @@ LINKS 🔗
 frogie's arcade - https://discord.gg/qmChvDTh                          
 frogie's arcade - https://frogiesarcade.win
 
-# This Version Is Outdated.
-v2 will be released soon
 
 
