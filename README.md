@@ -1,6 +1,6 @@
 # Welcome to Solar V2 💫
 a fully open source pc optimizer created for low end pcs.                                              
-i have worked 5 months on v2 to bring users a high quality software!                                         
+i have worked 5 months on v2 so please star to support me!                                   
 
 # How to Use
 1. Download Latest Release.
