@@ -4,9 +4,11 @@ i have worked 5 months on v2 so please star to support me!
 
 # How to Use
 1. Download Latest Release.
-2. Extract It.
-3. Open Command Prompt.
-4. Run Python Main.py
+2. Open Command Prompt.
+3. Run Python Main.py
+
+# Note
+I will not be updating this project any time soon.
 
 
 
